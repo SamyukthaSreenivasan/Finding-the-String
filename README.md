@@ -26,6 +26,42 @@ grep "home" /etc/passwd > /root/search.txt
 ### OUTPUT:
 ![image](https://github.com/SamyukthaSreenivasan/Finding-the-String/assets/119475703/ff9285fe-30d4-43a7-b6f8-adfad88a9be2)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### RESULT:
 
 Thus the program to find the string and store the result is successfully implemented.
