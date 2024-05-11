@@ -62,6 +62,24 @@ grep "home" /etc/passwd > /root/search.txt
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### RESULT:
 
 Thus the program to find the string and store the result is successfully implemented.
